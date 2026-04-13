@@ -50,13 +50,4 @@ Full-stack SDE with **5+ years** building cloud-native microservices and enterpr
 - Exploring event-driven architectures and stream processing patterns
 - Contributing to open-source Java and cloud tooling projects
 
----
-
-## GitHub Stats
-
-![Sri Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriharsha102&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha102&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 *Open to connecting — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sri-harsha-k11/) or drop an [email](mailto:harsha.kamojhala@gmail.com).*
